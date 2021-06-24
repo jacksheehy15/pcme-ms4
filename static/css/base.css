@@ -3,11 +3,11 @@ html {
 }
 
 body {
-    background: url('/media/hm8.jpg') no-repeat center center fixed;
+    background: url('/media/m8.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555555;
-    font-family: Lato;
+    font-family: Lato;   
 }
 /* from Bulma */
 .icon {
@@ -77,4 +77,11 @@ body {
     .header-container {
         padding-top: 164px;
     }
+}
+
+.footer{
+   position:absolute;
+   bottom:0;
+   width: 100%;
+   height: auto;
 }
