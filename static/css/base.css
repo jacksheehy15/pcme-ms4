@@ -7,7 +7,7 @@ body {
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555555;
-    font-family: Lato;   
+    font-family: Quicksand;   
 }
 /* from Bulma */
 .icon {
@@ -84,6 +84,8 @@ body {
    bottom:0;
    width: 100%;
    height: auto;
+   padding-left: 0;
+   padding-right: 0;
 }
 
 .main-nav {
